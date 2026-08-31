@@ -13,7 +13,7 @@ Here are the 2 language I know so far:
 #include <stdio.h>
 
 int main() {
-    printf("Sandbox running fine.\n");
+    printf("Hello GitHub.\n");
     return 0;
 }
 ```
@@ -22,6 +22,6 @@ int main() {
 ```java
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Java test pass.");
+        System.out.println("Testing, Github.");
     }
 }
